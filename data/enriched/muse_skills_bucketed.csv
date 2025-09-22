@@ -1,0 +1,44 @@
+job_title,education_level,years_of_experience,toolkit,skill,source
+Data Analyst,Bachelor's,2.0,Analytics/Experimentation,Process Improvement,deepseek_jd
+Data Analyst,Bachelor's,2.0,Analytics/Experimentation,Discrepancy Resolution,deepseek_jd
+Data Analyst,Bachelor's,2.0,Soft Skills,Communication,deepseek_jd
+Data Analyst,Bachelor's,2.0,Soft Skills,Stakeholder Management,deepseek_jd
+Data Analyst,Bachelor's,2.0,Soft Skills,Attention To Detail,deepseek_jd
+Data Analyst,Bachelor's,2.0,Soft Skills,Time Management,deepseek_jd
+Data Analyst,Bachelor's,2.0,Soft Skills,Analytical Thinking,deepseek_jd
+Data Analyst,Bachelor's,2.0,Other,Dynamics 365,deepseek_jd
+Data Analyst,Bachelor's,2.0,Other,Microsoft Excel,deepseek_jd
+Data Analyst,Bachelor's,2.0,Other,Accounting Principles,deepseek_jd
+Data Analyst,Bachelor's,2.0,Other,Vendor Management,deepseek_jd
+Data Analyst,Bachelor's,2.0,Other,Compliance,deepseek_jd
+Data Analyst,Bachelor's,2.0,Other,Financial Reconciliation,deepseek_jd
+Business Analyst,PhD,1.0,SQL & Warehouses,Oracle Cloud Wms,deepseek_jd
+Business Analyst,PhD,1.0,SQL & Warehouses,Oracle Fusion Scm,deepseek_jd
+Business Analyst,PhD,1.0,APIs & Services,Oracle Tms,deepseek_jd
+Business Analyst,PhD,1.0,APIs & Services,Flexi-Pro,deepseek_jd
+Business Analyst,PhD,1.0,APIs & Services,Salesforce Crm,deepseek_jd
+Business Analyst,PhD,1.0,Data Engineering,System Integration,deepseek_jd
+Business Analyst,PhD,1.0,Data Engineering,Workflow Automation,deepseek_jd
+Business Analyst,PhD,1.0,Analytics/Experimentation,Fit-Gap Analysis,deepseek_jd
+Business Analyst,PhD,1.0,Analytics/Experimentation,Process Optimization,deepseek_jd
+Business Analyst,PhD,1.0,Analytics/Experimentation,Business Requirements Gathering,deepseek_jd
+Business Analyst,PhD,1.0,Soft Skills,Communication Skills,deepseek_jd
+Business Analyst,PhD,1.0,Soft Skills,Team Collaboration,deepseek_jd
+Business Analyst,PhD,1.0,Soft Skills,Problem Solving,deepseek_jd
+Business Analyst,PhD,1.0,Soft Skills,User Training,deepseek_jd
+Business Analyst,PhD,1.0,Soft Skills,Documentation,deepseek_jd
+Data Scientist,Bachelor's,0.0,ML/AI,Generative Ai,deepseek_jd
+Data Scientist,Bachelor's,0.0,ML/AI,Ml Platforms,deepseek_jd
+Data Scientist,Bachelor's,0.0,ML/AI,Ai Evaluation,deepseek_jd
+Data Scientist,Bachelor's,0.0,Cloud,SAAS,deepseek_jd
+Data Scientist,Bachelor's,0.0,Soft Skills,Stakeholder Management,deepseek_jd
+Data Scientist,Bachelor's,0.0,Soft Skills,Cross-Functional Collaboration,deepseek_jd
+Data Scientist,Bachelor's,0.0,Soft Skills,Negotiation,deepseek_jd
+Data Scientist,Bachelor's,0.0,Soft Skills,Communication,deepseek_jd
+Data Scientist,Bachelor's,0.0,Soft Skills,Program Management,deepseek_jd
+Data Scientist,Bachelor's,0.0,Soft Skills,Risk Assessment,deepseek_jd
+Data Scientist,Bachelor's,0.0,Other,Supplier Management,deepseek_jd
+Data Scientist,Bachelor's,0.0,Other,Contract Negotiation,deepseek_jd
+Data Scientist,Bachelor's,0.0,Other,Rfx Processes,deepseek_jd
+Data Scientist,Bachelor's,0.0,Other,Category Management,deepseek_jd
+Data Scientist,Bachelor's,0.0,Other,Strategic Sourcing,deepseek_jd

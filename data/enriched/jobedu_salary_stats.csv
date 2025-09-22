@@ -1,0 +1,274 @@
+job_title,education_level,salary_count,salary_mean,salary_p25,salary_p75,salary_min,salary_max
+Account Manager,Bachelor's,1,75000.0,75000.0,75000.0,75000.0,75000.0
+Accountant,Bachelor's,1,55000.0,55000.0,55000.0,55000.0,55000.0
+Administrative Assistant,Bachelor's,2,50000.0,47500.0,52500.0,45000.0,55000.0
+Back end Developer,Bachelor's,145,98743.85,80000.0,120000.0,55000.0,178284.0
+Back end Developer,High School,15,74263.67,52807.0,88046.0,51832.0,104127.0
+Back end Developer,Master's,84,113597.76,84438.0,140000.0,55538.0,155000.0
+Business Analyst,Bachelor's,1,75000.0,75000.0,75000.0,75000.0,75000.0
+Business Analyst,Master's,1,80000.0,80000.0,80000.0,80000.0,80000.0
+Business Development Manager,Master's,1,90000.0,90000.0,90000.0,90000.0,90000.0
+Business Intelligence Analyst,Master's,1,85000.0,85000.0,85000.0,85000.0,85000.0
+CEO,Bachelor's,1,210000.0,210000.0,210000.0,210000.0,210000.0
+Chief Data Officer,PhD,1,210000.0,210000.0,210000.0,210000.0,210000.0
+Chief Technology Officer,PhD,1,210000.0,210000.0,210000.0,210000.0,210000.0
+Content Marketing Manager,Bachelor's,27,113148.15,100000.0,120000.0,55000.0,150000.0
+Content Marketing Manager,Master's,44,127840.91,80000.0,190000.0,70000.0,190000.0
+Content Marketing Manager,PhD,2,155000.0,152500.0,157500.0,150000.0,160000.0
+Copywriter,Bachelor's,1,40000.0,40000.0,40000.0,40000.0,40000.0
+Creative Director,Master's,1,120000.0,120000.0,120000.0,120000.0,120000.0
+Customer Service Manager,Bachelor's,2,105000.0,92500.0,117500.0,80000.0,130000.0
+Customer Service Rep,Bachelor's,1,40000.0,40000.0,40000.0,40000.0,40000.0
+Customer Service Representative,Bachelor's,1,45000.0,45000.0,45000.0,45000.0,45000.0
+Customer Service Representative,High School,5,31000.0,30000.0,30000.0,30000.0,35000.0
+Customer Success Manager,Bachelor's,1,40000.0,40000.0,40000.0,40000.0,40000.0
+Customer Success Rep,Bachelor's,1,40000.0,40000.0,40000.0,40000.0,40000.0
+Data Analyst,Bachelor's,287,129783.97,100000.0,147500.0,90000.0,195000.0
+Data Analyst,Master's,76,107368.42,100000.0,120000.0,65000.0,150000.0
+Data Entry Clerk,Bachelor's,1,35000.0,35000.0,35000.0,35000.0,35000.0
+Data Scientist,Bachelor's,8,179375.0,180000.0,185000.0,150000.0,185000.0
+Data Scientist,Master's,115,163782.61,140000.0,180000.0,75000.0,198000.0
+Data Scientist,PhD,330,165042.42,140000.0,185000.0,100000.0,210000.0
+Delivery Driver,High School,5,28000.0,28000.0,28000.0,28000.0,28000.0
+Developer,Nan,1,100000.0,100000.0,100000.0,100000.0,100000.0
+Digital Content Producer,Bachelor's,1,50000.0,50000.0,50000.0,50000.0,50000.0
+Digital Marketing Manager,Bachelor's,22,91136.36,95000.0,95000.0,60000.0,95000.0
+Digital Marketing Manager,High School,6,40000.0,40000.0,40000.0,40000.0,40000.0
+Digital Marketing Manager,Master's,23,111956.52,52500.0,140000.0,50000.0,150000.0
+Digital Marketing Manager,PhD,1,30000.0,30000.0,30000.0,30000.0,30000.0
+Digital Marketing Specialist,Bachelor's,15,63333.33,60000.0,65000.0,60000.0,65000.0
+Director,Master's,1,200000.0,200000.0,200000.0,200000.0,200000.0
+Director of Business Development,Master's,1,170000.0,170000.0,170000.0,170000.0,170000.0
+Director of Data Science,PhD,57,204210.53,200000.0,210000.0,170000.0,210000.0
+Director of Engineering,Master's,1,180000.0,180000.0,180000.0,180000.0,180000.0
+Director of Engineering,PhD,1,180000.0,180000.0,180000.0,180000.0,180000.0
+Director of Finance,Master's,2,175000.0,172500.0,177500.0,170000.0,180000.0
+Director of HR,Master's,26,112692.31,95000.0,120000.0,80000.0,180000.0
+Director of HR,PhD,43,127674.42,115000.0,140000.0,95000.0,150000.0
+Director of Human Capital,Master's,1,180000.0,180000.0,180000.0,180000.0,180000.0
+Director of Human Resources,Master's,1,190000.0,190000.0,190000.0,190000.0,190000.0
+Director of Human Resources,PhD,1,185000.0,185000.0,185000.0,185000.0,185000.0
+Director of Marketing,Bachelor's,15,80000.0,80000.0,80000.0,80000.0,80000.0
+Director of Marketing,Master's,30,152166.67,130000.0,177500.0,95000.0,180000.0
+Director of Marketing,PhD,43,148023.26,105000.0,170000.0,105000.0,200000.0
+Director of Operations,Master's,8,170000.0,170000.0,170000.0,160000.0,180000.0
+Director of Operations,PhD,3,180000.0,180000.0,180000.0,180000.0,180000.0
+Director of Product Management,Master's,1,175000.0,175000.0,175000.0,175000.0,175000.0
+Director of Sales,Master's,1,175000.0,175000.0,175000.0,175000.0,175000.0
+Director of Sales and Marketing,PhD,1,180000.0,180000.0,180000.0,180000.0,180000.0
+Event Coordinator,Bachelor's,2,52500.0,48750.0,56250.0,45000.0,60000.0
+Financial Advisor,Master's,1,95000.0,95000.0,95000.0,95000.0,95000.0
+Financial Analyst,Bachelor's,19,77631.58,55000.0,80000.0,55000.0,160000.0
+Financial Analyst,Master's,20,97250.0,98750.0,100000.0,80000.0,100000.0
+Financial Manager,Bachelor's,82,161158.54,112500.0,210000.0,55000.0,210000.0
+Financial Manager,High School,5,51000.0,45000.0,60000.0,45000.0,60000.0
+Financial Manager,Master's,44,120681.82,120000.0,120000.0,120000.0,140000.0
+Financial Manager,PhD,3,88333.33,72500.0,97500.0,70000.0,120000.0
+Front End Developer,Bachelor's,31,77419.35,80000.0,80000.0,50000.0,80000.0
+Front end Developer,Bachelor's,178,81730.46,65000.0,90000.0,25000.0,173851.0
+Front end Developer,High School,3,57867.33,55375.0,62852.0,47898.0,62852.0
+Front end Developer,Master's,60,95159.63,73640.0,105373.0,55000.0,174726.0
+Full Stack Engineer,Bachelor's,104,122097.28,115000.0,130000.0,55000.0,183417.0
+Full Stack Engineer,High School,2,69032.0,69032.0,69032.0,69032.0,69032.0
+Full Stack Engineer,Master's,194,129053.88,105000.0,147326.0,68472.0,192756.0
+Full Stack Engineer,PhD,8,144634.75,115729.5,180255.25,98568.0,181021.0
+Graphic Designer,Bachelor's,22,49772.73,50000.0,50000.0,45000.0,60000.0
+HR Generalist,Bachelor's,2,70000.0,65000.0,75000.0,60000.0,80000.0
+HR Manager,Bachelor's,2,110000.0,95000.0,125000.0,80000.0,140000.0
+Help Desk Analyst,Bachelor's,1,35000.0,35000.0,35000.0,35000.0,35000.0
+Human Resources Coordinator,Bachelor's,7,50571.43,46000.0,55000.0,45000.0,60000.0
+Human Resources Coordinator,Master's,42,48833.33,49000.0,50000.0,45000.0,50000.0
+Human Resources Director,Master's,1,180000.0,180000.0,180000.0,180000.0,180000.0
+Human Resources Manager,Bachelor's,48,85166.67,75000.0,95000.0,75000.0,99000.0
+Human Resources Manager,Master's,56,128571.43,120000.0,146000.0,92000.0,152000.0
+IT Manager,Bachelor's,1,120000.0,120000.0,120000.0,120000.0,120000.0
+IT Support,Bachelor's,1,50000.0,50000.0,50000.0,50000.0,50000.0
+IT Support Specialist,Bachelor's,1,60000.0,60000.0,60000.0,60000.0,60000.0
+Junior Account Manager,Bachelor's,2,50000.0,47500.0,52500.0,45000.0,55000.0
+Junior Accountant,Bachelor's,3,41666.67,37500.0,45000.0,35000.0,50000.0
+Junior Advertising Coordinator,Bachelor's,1,45000.0,45000.0,45000.0,45000.0,45000.0
+Junior Business Analyst,Bachelor's,8,50000.0,40000.0,60000.0,40000.0,60000.0
+Junior Business Development Associate,Bachelor's,7,40714.29,35000.0,45000.0,35000.0,50000.0
+Junior Business Operations Analyst,Bachelor's,2,30000.0,27500.0,32500.0,25000.0,35000.0
+Junior Copywriter,Bachelor's,1,45000.0,45000.0,45000.0,45000.0,45000.0
+Junior Customer Support Specialist,Bachelor's,1,35000.0,35000.0,35000.0,35000.0,35000.0
+Junior Data Analyst,Bachelor's,25,51360.0,50000.0,52000.0,50000.0,60000.0
+Junior Data Scientist,Master's,1,45000.0,45000.0,45000.0,45000.0,45000.0
+Junior Designer,Bachelor's,1,40000.0,40000.0,40000.0,40000.0,40000.0
+Junior Developer,Bachelor's,1,40000.0,40000.0,40000.0,40000.0,40000.0
+Junior Financial Advisor,Bachelor's,1,65000.0,65000.0,65000.0,65000.0,65000.0
+Junior Financial Analyst,Bachelor's,7,52857.14,50000.0,55000.0,40000.0,70000.0
+Junior HR Coordinator,Bachelor's,14,42142.86,35750.0,50000.0,25000.0,60000.0
+Junior HR Coordinator,High School,15,33866.67,33000.0,35500.0,30000.0,38000.0
+Junior HR Generalist,Bachelor's,19,47526.32,42000.0,55000.0,32000.0,65000.0
+Junior HR Generalist,High School,29,34068.97,32000.0,35000.0,32000.0,40000.0
+Junior HR Generalist,Master's,12,33666.67,32000.0,32000.0,32000.0,42000.0
+Junior Marketing Analyst,Bachelor's,3,48333.33,37500.0,55000.0,35000.0,70000.0
+Junior Marketing Coordinator,Bachelor's,6,46666.67,40000.0,53750.0,40000.0,55000.0
+Junior Marketing Manager,Bachelor's,51,63294.12,56000.0,70000.0,50000.0,72000.0
+Junior Marketing Specialist,Bachelor's,4,56250.0,43750.0,70000.0,40000.0,70000.0
+Junior Marketing Specialist,Master's,1,40000.0,40000.0,40000.0,40000.0,40000.0
+Junior Operations Analyst,Bachelor's,5,51000.0,50000.0,50000.0,35000.0,70000.0
+Junior Operations Coordinator,Bachelor's,1,40000.0,40000.0,40000.0,40000.0,40000.0
+Junior Operations Manager,Bachelor's,3,55000.0,47500.0,65000.0,35000.0,70000.0
+Junior Product Manager,Bachelor's,4,56250.0,55000.0,61250.0,40000.0,65000.0
+Junior Project Manager,Bachelor's,5,47000.0,40000.0,55000.0,40000.0,60000.0
+Junior Recruiter,Bachelor's,1,45000.0,45000.0,45000.0,45000.0,45000.0
+Junior Research Scientist,Master's,1,50000.0,50000.0,50000.0,50000.0,50000.0
+Junior Sales Associate,High School,142,28211.27,25000.0,30000.0,25000.0,35000.0
+Junior Sales Representative,Bachelor's,16,49062.5,38750.0,60000.0,30000.0,75000.0
+Junior Sales Representative,High School,25,29200.0,25000.0,40000.0,25000.0,40000.0
+Junior Social Media Manager,Bachelor's,1,45000.0,45000.0,45000.0,45000.0,45000.0
+Junior Social Media Specialist,Bachelor's,1,45000.0,45000.0,45000.0,45000.0,45000.0
+Junior Software Developer,Bachelor's,58,35810.34,35000.0,36000.0,35000.0,50000.0
+Junior Software Engineer,Bachelor's,51,50372.55,45000.0,55000.0,40000.0,55000.0
+Junior UX Designer,Master's,1,45000.0,45000.0,45000.0,45000.0,45000.0
+Junior Web Designer,Bachelor's,1,45000.0,45000.0,45000.0,45000.0,45000.0
+Junior Web Developer,Bachelor's,37,45540.54,45000.0,50000.0,40000.0,50000.0
+Junior Web Developer,High School,3,47000.0,43000.0,49000.0,43000.0,55000.0
+Junior Web Developer,Master's,2,48000.0,48000.0,48000.0,48000.0,48000.0
+Juniour HR Coordinator,High School,3,32000.0,32000.0,32000.0,32000.0,32000.0
+Juniour HR Generalist,High School,3,43000.0,43000.0,43000.0,43000.0,43000.0
+Marketing Analyst,Bachelor's,132,62916.67,60000.0,70000.0,40000.0,75000.0
+Marketing Coordinator,Bachelor's,112,71205.36,57000.0,90000.0,40000.0,95000.0
+Marketing Coordinator,Master's,45,104711.11,85000.0,122000.0,40000.0,131000.0
+Marketing Coordinator,PhD,1,120000.0,120000.0,120000.0,120000.0,120000.0
+Marketing Director,Master's,64,183984.38,180000.0,195000.0,160000.0,195000.0
+Marketing Manager,Bachelor's,42,95595.24,65000.0,127500.0,55000.0,140000.0
+Marketing Manager,Master's,182,129170.33,110000.0,135000.0,60000.0,210000.0
+Marketing Manager,PhD,31,75322.58,55000.0,90000.0,55000.0,190000.0
+Marketing Specialist,Bachelor's,1,65000.0,65000.0,65000.0,65000.0,65000.0
+Network Engineer,Bachelor's,1,60000.0,60000.0,60000.0,60000.0,60000.0
+Office Manager,Bachelor's,1,65000.0,65000.0,65000.0,65000.0,65000.0
+Operations Analyst,Bachelor's,1,110000.0,110000.0,110000.0,110000.0,110000.0
+Operations Director,Master's,1,190000.0,190000.0,190000.0,190000.0,190000.0
+Operations Manager,Bachelor's,114,95938.6,75000.0,112250.0,70000.0,174000.0
+Principal Engineer,PhD,1,170000.0,170000.0,170000.0,170000.0,170000.0
+Principal Scientist,PhD,1,120000.0,120000.0,120000.0,120000.0,120000.0
+Product Designer,Bachelor's,74,55743.24,55000.0,60000.0,45000.0,60000.0
+Product Designer,Master's,1,90000.0,90000.0,90000.0,90000.0,90000.0
+Product Manager,Bachelor's,156,117051.28,60000.0,152500.0,55000.0,190000.0
+Product Manager,Master's,152,166842.11,130000.0,198000.0,100000.0,198000.0
+Product Manager,PhD,5,195000.0,195000.0,195000.0,195000.0,195000.0
+Product Marketing Manager,Master's,1,95000.0,95000.0,95000.0,95000.0,95000.0
+Project Engineer,Master's,1,115000.0,115000.0,115000.0,115000.0,115000.0
+Project Manager,Bachelor's,21,118571.43,115000.0,120000.0,95000.0,130000.0
+Project Manager,Master's,1,130000.0,130000.0,130000.0,130000.0,130000.0
+Public Relations Manager,Master's,1,90000.0,90000.0,90000.0,90000.0,90000.0
+Receptionist,High School,57,25000.0,25000.0,25000.0,25000.0,25000.0
+Recruiter,Bachelor's,2,65000.0,62500.0,67500.0,60000.0,70000.0
+Research Director,PhD,75,163333.33,160000.0,170000.0,150000.0,190000.0
+Research Scientist,PhD,69,165362.32,155000.0,180000.0,120000.0,185000.0
+Sales Associate,Bachelor's,5,46000.0,40000.0,50000.0,35000.0,60000.0
+Sales Associate,High School,65,35076.92,30000.0,50000.0,25000.0,50000.0
+Sales Director,Bachelor's,42,109166.67,75000.0,140000.0,70000.0,180000.0
+Sales Director,PhD,20,155500.0,155000.0,155000.0,140000.0,180000.0
+Sales Executive,Bachelor's,12,53750.0,35000.0,46250.0,35000.0,160000.0
+Sales Executive,High School,26,38076.92,35000.0,38750.0,35000.0,70000.0
+Sales Manager,Bachelor's,34,125441.18,80000.0,160000.0,35000.0,180000.0
+Sales Manager,High School,15,40000.0,40000.0,40000.0,40000.0,40000.0
+Sales Manager,Master's,7,128571.43,130000.0,140000.0,80000.0,140000.0
+Sales Operations Manager,Bachelor's,1,110000.0,110000.0,110000.0,110000.0,110000.0
+Sales Representative,Bachelor's,22,41590.91,35000.0,38750.0,30000.0,90000.0
+Sales Representative,High School,7,41428.57,40000.0,40000.0,40000.0,50000.0
+Sales Representative,Master's,3,46666.67,42500.0,50000.0,40000.0,55000.0
+Sales Representative,PhD,6,55000.0,55000.0,55000.0,55000.0,55000.0
+Senior Account Executive,Bachelor's,1,95000.0,95000.0,95000.0,95000.0,95000.0
+Senior Account Manager,Bachelor's,1,110000.0,110000.0,110000.0,110000.0,110000.0
+Senior Accountant,Bachelor's,2,85000.0,82500.0,87500.0,80000.0,90000.0
+Senior Business Analyst,Bachelor's,5,103000.0,95000.0,110000.0,90000.0,110000.0
+Senior Business Analyst,Master's,2,97500.0,93750.0,101250.0,90000.0,105000.0
+Senior Business Analyst,PhD,3,150000.0,150000.0,150000.0,150000.0,150000.0
+Senior Business Development Manager,Bachelor's,3,106666.67,100000.0,115000.0,90000.0,120000.0
+Senior Business Development Manager,Master's,1,120000.0,120000.0,120000.0,120000.0,120000.0
+Senior Consultant,PhD,1,140000.0,140000.0,140000.0,140000.0,140000.0
+Senior Data Analyst,PhD,3,155000.0,152500.0,157500.0,150000.0,160000.0
+Senior Data Engineer,PhD,4,155000.0,150000.0,160000.0,150000.0,160000.0
+Senior Data Scientist,Master's,24,122500.0,120000.0,125000.0,120000.0,125000.0
+Senior Data Scientist,PhD,37,169729.73,170000.0,170000.0,150000.0,200000.0
+Senior Engineer,PhD,2,127500.0,121250.0,133750.0,115000.0,140000.0
+Senior Financial Advisor,Master's,3,93333.33,90000.0,100000.0,80000.0,100000.0
+Senior Financial Analyst,Bachelor's,4,112500.0,97500.0,130000.0,90000.0,130000.0
+Senior Financial Analyst,Master's,3,113333.33,95000.0,122500.0,95000.0,150000.0
+Senior Financial Manager,Bachelor's,5,100000.0,90000.0,100000.0,90000.0,120000.0
+Senior Graphic Designer,Master's,1,110000.0,110000.0,110000.0,110000.0,110000.0
+Senior HR Generalist,Bachelor's,2,95000.0,95000.0,95000.0,95000.0,95000.0
+Senior HR Generalist,Master's,40,90700.0,78750.0,105000.0,55000.0,115000.0
+Senior HR Manager,Master's,2,145000.0,142500.0,147500.0,140000.0,150000.0
+Senior HR Manager,PhD,1,160000.0,160000.0,160000.0,160000.0,160000.0
+Senior HR Specialist,Master's,1,140000.0,140000.0,140000.0,140000.0,140000.0
+Senior Human Resources Coordinator,Bachelor's,1,80000.0,80000.0,80000.0,80000.0,80000.0
+Senior Human Resources Manager,Master's,24,91250.0,70000.0,106250.0,70000.0,160000.0
+Senior Human Resources Manager,PhD,24,127916.67,110000.0,150000.0,90000.0,150000.0
+Senior Human Resources Specialist,Master's,1,120000.0,120000.0,120000.0,120000.0,120000.0
+Senior IT Consultant,Master's,2,110000.0,110000.0,110000.0,110000.0,110000.0
+Senior IT Project Manager,Bachelor's,1,130000.0,130000.0,130000.0,130000.0,130000.0
+Senior IT Support Specialist,Bachelor's,1,110000.0,110000.0,110000.0,110000.0,110000.0
+Senior Manager,PhD,2,160000.0,155000.0,165000.0,150000.0,170000.0
+Senior Marketing Analyst,Bachelor's,7,87142.86,85000.0,85000.0,85000.0,100000.0
+Senior Marketing Analyst,Master's,2,97500.0,96250.0,98750.0,95000.0,100000.0
+Senior Marketing Coordinator,Bachelor's,3,93333.33,85000.0,100000.0,80000.0,110000.0
+Senior Marketing Director,PhD,1,160000.0,160000.0,160000.0,160000.0,160000.0
+Senior Marketing Manager,Bachelor's,4,106250.0,95000.0,111250.0,95000.0,130000.0
+Senior Marketing Manager,Master's,3,146666.67,135000.0,165000.0,110000.0,170000.0
+Senior Marketing Manager,PhD,2,140000.0,140000.0,140000.0,140000.0,140000.0
+Senior Marketing Specialist,Bachelor's,4,98750.0,92500.0,101250.0,85000.0,120000.0
+Senior Operations Analyst,Bachelor's,2,85000.0,85000.0,85000.0,85000.0,85000.0
+Senior Operations Coordinator,Bachelor's,4,97500.0,90000.0,97500.0,90000.0,120000.0
+Senior Operations Manager,Bachelor's,4,106250.0,98750.0,112500.0,95000.0,120000.0
+Senior Operations Manager,Master's,1,115000.0,115000.0,115000.0,115000.0,115000.0
+Senior Product Designer,PhD,5,148000.0,150000.0,150000.0,140000.0,150000.0
+Senior Product Development Manager,Bachelor's,1,100000.0,100000.0,100000.0,100000.0,100000.0
+Senior Product Manager,Bachelor's,5,122000.0,95000.0,150000.0,95000.0,150000.0
+Senior Product Manager,Master's,1,120000.0,120000.0,120000.0,120000.0,120000.0
+Senior Product Marketing Manager,Bachelor's,20,85750.0,85000.0,85000.0,85000.0,100000.0
+Senior Product Marketing Manager,Master's,7,177142.86,180000.0,190000.0,120000.0,190000.0
+Senior Product Marketing Manager,PhD,42,137619.05,95000.0,170000.0,70000.0,200000.0
+Senior Project Coordinator,Bachelor's,4,95000.0,95000.0,95000.0,95000.0,95000.0
+Senior Project Coordinator,Master's,1,80000.0,80000.0,80000.0,80000.0,80000.0
+Senior Project Engineer,Bachelor's,56,140110.14,89634.25,171468.0,51831.0,193964.0
+Senior Project Engineer,High School,8,119248.5,91143.0,157182.5,52731.0,166109.0
+Senior Project Engineer,Master's,74,136122.04,114329.0,170000.0,92438.0,187120.0
+Senior Project Engineer,PhD,180,188812.69,185000.0,195000.0,165000.0,210000.0
+Senior Project Manager,Bachelor's,5,126000.0,120000.0,130000.0,120000.0,140000.0
+Senior Project Manager,Master's,2,137500.0,136250.0,138750.0,135000.0,140000.0
+Senior Quality Assurance Analyst,Bachelor's,1,100000.0,100000.0,100000.0,100000.0,100000.0
+Senior Research Scientist,PhD,49,137959.18,135000.0,145000.0,130000.0,160000.0
+Senior Researcher,PhD,1,150000.0,150000.0,150000.0,150000.0,150000.0
+Senior Sales Manager,Bachelor's,2,132500.0,131250.0,133750.0,130000.0,135000.0
+Senior Sales Representative,Bachelor's,2,95000.0,92500.0,97500.0,90000.0,100000.0
+Senior Scientist,PhD,3,123333.33,115000.0,130000.0,110000.0,140000.0
+Senior Software Architect,Master's,1,120000.0,120000.0,120000.0,120000.0,120000.0
+Senior Software Developer,Master's,3,118333.33,107500.0,125000.0,105000.0,140000.0
+Senior Software Engineer,Bachelor's,27,127651.11,106218.0,143922.0,100151.0,186321.0
+Senior Software Engineer,High School,6,161165.0,158966.0,164180.75,158254.0,165919.0
+Senior Software Engineer,Master's,179,151594.99,138159.0,180000.0,99747.0,195270.0
+Senior Software Engineer,PhD,32,167957.44,160000.0,170000.0,160000.0,194638.0
+Senior Training Specialist,Master's,1,100000.0,100000.0,100000.0,100000.0,100000.0
+Senior UX Designer,PhD,3,155000.0,152500.0,160000.0,145000.0,160000.0
+Social Media Man,Bachelor's,1,100000.0,100000.0,100000.0,100000.0,100000.0
+Social Media Manager,Bachelor's,14,55000.0,55000.0,55000.0,55000.0,55000.0
+Social Media Specialist,Bachelor's,1,45000.0,45000.0,45000.0,45000.0,45000.0
+Software Developer,Bachelor's,118,63728.81,56250.0,61000.0,45000.0,85000.0
+Software Developer,Master's,7,80714.29,70000.0,92500.0,70000.0,95000.0
+Software Engineer,Bachelor's,478,115585.77,71000.0,160000.0,50000.0,197000.0
+Software Engineer,Master's,40,85250.0,60000.0,120000.0,60000.0,170000.0
+Software Engineer Manager,Bachelor's,26,137666.23,135000.0,135000.0,104661.0,170000.0
+Software Engineer Manager,Master's,80,161983.1,160000.0,170000.0,130000.0,183530.0
+Software Engineer Manager,PhD,270,179063.95,180000.0,195000.0,25000.0,210000.0
+Software Manager,Master's,1,110000.0,110000.0,110000.0,110000.0,110000.0
+Software Project Manager,Bachelor's,1,95000.0,95000.0,95000.0,95000.0,95000.0
+Strategy Consultant,Master's,1,130000.0,130000.0,130000.0,130000.0,130000.0
+Supply Chain Analyst,Bachelor's,1,130000.0,130000.0,130000.0,130000.0,130000.0
+Supply Chain Manager,Bachelor's,1,105000.0,105000.0,105000.0,105000.0,105000.0
+Technical Recruiter,Bachelor's,1,70000.0,70000.0,70000.0,70000.0,70000.0
+Technical Support Specialist,Bachelor's,1,40000.0,40000.0,40000.0,40000.0,40000.0
+Technical Writer,Bachelor's,1,45000.0,45000.0,45000.0,45000.0,45000.0
+Training Specialist,Bachelor's,1,65000.0,65000.0,65000.0,65000.0,65000.0
+UX Designer,Master's,1,80000.0,80000.0,80000.0,80000.0,80000.0
+UX Researcher,Master's,1,65000.0,65000.0,65000.0,65000.0,65000.0
+VP of Finance,Master's,1,200000.0,200000.0,200000.0,200000.0,200000.0
+VP of Operations,Master's,1,190000.0,190000.0,190000.0,190000.0,190000.0
+Web Developer,Bachelor's,50,61900.0,55000.0,70000.0,35000.0,100000.0
+Web Developer,High School,3,41666.67,40000.0,45000.0,35000.0,45000.0
+Web Developer,Master's,34,75294.12,65000.0,85000.0,50000.0,110000.0
